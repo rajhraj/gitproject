@@ -1,3 +1,7 @@
-#p{
+body{
     background-color: blueviolet;
+}
+.demostyle{
+    text-align: center;
+    color: chartreuse;
 }
